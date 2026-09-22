@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 🔧 Atualmente desenvolvendo projetos acadêmicos, aprendendo e experimentando diferentes tecnologias.
 
-📍 Brasil — São Paulo - Registro
+📍 Brasil — São Paulo — Registro
 
 Busco desenvolver continuamente minhas habilidades e ingressar no mercado de tecnologia, com interesse em desenvolvimento de software, sistemas multiplataforma, IoT e tecnologia em geral.
 
