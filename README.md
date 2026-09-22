@@ -23,14 +23,10 @@ Here are some ideas to get you started:
 
 </div>
 
-🎓 Estudante de Desenvolvimento de Software Multiplataforma
+🎓 Desenvolvimento de Software Multiplataforma | DSM
 
-💡 Interessado em desenvolvimento de sistemas, programação, banco de dados, IoT e inteligência artificial.
-
-🔧 Atualmente desenvolvendo projetos acadêmicos, aprendendo e experimentando diferentes tecnologias.
-
-📍 Brasil — São Paulo — Registro
-
+Interessado em desenvolvimento de sistemas, programação, banco de dados, IoT e inteligência artificial. 
+Atualmente desenvolvendo projetos acadêmicos, aprendendo e experimentando diferentes tecnologias.
 Busco desenvolver continuamente minhas habilidades e ingressar no mercado de tecnologia, com interesse em desenvolvimento de software, sistemas multiplataforma, IoT e tecnologia em geral.
 
 <div align="left">
