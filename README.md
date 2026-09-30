@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-💻 Desenvolvedor em formação | Desenvolvimento de Software Multiplataforma | DSM
+💻 Desenvolvedor em formação | Desenvolvimento de Software Multiplataforma | Fatec Registro
 
 <p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> </p>
 
